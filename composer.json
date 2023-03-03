@@ -1,5 +1,5 @@
 {
-    "name": "bitbag/vue-storefront2-plugin",
+    "name": "johnnuman/vue-storefront2-plugin",
     "type": "sylius-plugin",
     "description": "Sylius backend integration for Vue Storefront 2",
     "keywords": [
